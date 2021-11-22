@@ -1,7 +1,7 @@
-// const person = {
-//   firstName: "Sujan",
-//   lastName: "Yonjan",
-// };
+const person = {
+  firstName: "Sujan",
+  lastName: "Yonjan",
+};
 
 let person = () => {
   console.log("value come from secondes6file");
